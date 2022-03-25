@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Red Car",
+        "price": 25,
+        "img": "https://img.freepik.com/free-photo/child-perspective-motorcar-generic-race_1232-3545.jpg?size=626&ext=jpg&uid=R62594661&ga=GA1.2.1098518636.1642048898"
+    },
+    {
+        "id": "2",
+        "name": "Wodden Car",
+        "price": 20,
+        "img": "https://img.freepik.com/free-photo/baby-playing-with-wooden-car_53876-70985.jpg?size=338&ext=jpg&uid=R62594661&ga=GA1.2.1098518636.1642048898"
+    },
+    {
+        "id": "3",
+        "name": "Mini Car",
+        "price": 5,
+        "img": "https://img.freepik.com/free-photo/vintage-miniature-car-fake-landscape_155003-1097.jpg?size=338&ext=jpg&uid=R62594661&ga=GA1.2.1098518636.1642048898"
+    },
+    {
+        "id": "4",
+        "name": "Little Ziraf",
+        "price": 90,
+        "img": "https://img.freepik.com/free-photo/valentine-s-day-children-s-room-with-little-giraffe-pink-wall-background-3d-rendering_41470-4362.jpg?size=626&ext=jpg&uid=R62594661&ga=GA1.2.1098518636.1642048898"
+    },
+    {
+        "id": "5",
+        "name": "Colurful Cars",
+        "price": 130,
+        "img": "https://img.freepik.com/free-photo/colorful-car-toys_1194-2341.jpg?size=626&ext=jpg&uid=R62594661&ga=GA1.1.1098518636.1642048898"
+    },
+    {
+        "id": "6",
+        "name": "Plane",
+        "price": 40,
+        "img": "https://img.freepik.com/free-photo/playing-toys-concept-with-wooden-cubes-kid-toys-wooden-background-flat-lay_176474-7843.jpg?size=626&ext=jpg&uid=R62594661&ga=GA1.2.1098518636.1642048898"
+    },
+    {
+        "id": "7",
+        "name": "Little teddy-beras",
+        "price": 15,
+        "img": ""
+    },
+    {
+        "id": "8",
+        "name": "Train Truck",
+        "price": 250,
+        "img": "https://img.freepik.com/free-photo/closeup-shot-small-toy-car-wooden-train-track_181624-32510.jpg?size=626&ext=jpg&uid=R62594661&ga=GA1.2.1098518636.1642048898"
+    },
+    {
+        "id": "9",
+        "name": "Teddy Bear",
+        "price": 100,
+        "img": "https://img.freepik.com/free-photo/cute-teddy-bear_144627-15238.jpg?size=626&ext=jpg&uid=R62594661&ga=GA1.2.1098518636.1642048898"
+    },
+    {
+        "id": "10",
+        "name": "Little Teddy-bear",
+        "price": 70,
+        "img": "https://www.freepik.com/free-photo/adorable-little-poodle-with-teddy-bear-toy-blue-surface_15672380.htm#query=toy&position=6&from_view=search"
+    },
+    {
+        "id": "11",
+        "name": "Piano",
+        "price": 10,
+        "img": "https://img.freepik.com/free-photo/high-angle-closeup-shot-colorful-keys-toy-piano_181624-27029.jpg?size=626&ext=jpg&uid=R62594661&ga=GA1.2.1098518636.1642048898"
+    },
+    {
+        "id": "12",
+        "name": "Yellow Truck",
+        "price": 20,
+        "img": "https://www.freepik.com/free-photo/yellow-toy-truck-yard_12751119.htm#query=toy&position=38&from_view=search"
+    }
+]
