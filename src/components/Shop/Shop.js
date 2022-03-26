@@ -32,7 +32,9 @@ const Shop = () => {
 
             </div>
             <div className='Cart-history'>
-                <Cart cart={cart} ></Cart>
+
+                <Cart cart={cart}></Cart>
+
             </div>
         </div>
 

@@ -1,9 +1,18 @@
-.cart{
+.cart-item{
     position: sticky;
     top: 0;
   
 }
-.cart-item
+.cart{
+    /* display: grid;
+    grid-template-rows: 3fr 1fr; */
+
+}
+@media screen  and (max-width:414px) {
+    .products{
+        grid-template-columns: 12fr;
+    }
+}
 .chose-button{
     border: none;
     color: white;
