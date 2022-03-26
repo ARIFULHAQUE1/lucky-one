@@ -4,8 +4,7 @@
   
 }
 .cart{
-    /* display: grid;
-    grid-template-rows: 3fr 1fr; */
+display: block;
 
 }
 @media screen  and (max-width:414px) {
@@ -19,11 +18,21 @@
     background-color:orange;
     padding: 10px;
     border-radius: 7px;
+    margin-bottom:10px;
 }
 .chose-button:hover{
     background-color: rgba(172, 103, 236, 0.815);
 }
-
+.chose-again{
+    border: none;
+    color: white;
+    background-color:coral;
+    padding: 10px;
+    border-radius: 7px; 
+}
+.chose-again:hover{
+    background-color: rgba(172, 103, 236, 0.815);
+}
 .cart-image img{
     height: 100px;
     width: 100px;
