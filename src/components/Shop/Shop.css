@@ -1,8 +1,27 @@
 .shop{
     display: grid;
+    grid-template-columns: 4fr 1fr;
+    position: absolute;
+
+}
+.products{
+    display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap:4px
+    gap: 30px;
+    margin-left:0;
+   
+  
 }
-.order{
-    background-color: rgba(167, 106, 197, 0.781);
+.summary{
+    width:auto;
+    margin-left: 20px;
+    background-color: rgba(174, 123, 199, 0.794);
+    position:sticky;
+    top: 0;
 }
+@media screen  and (max-width:414px) {
+    .products{
+        grid-template-columns: 12fr;
+    }
+}
+
