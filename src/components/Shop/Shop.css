@@ -9,19 +9,25 @@
     grid-template-columns: repeat(3,1fr);
     gap: 30px;
     margin-left:0;
-   
-  
+  gap:20px;
 }
-.summary{
+.Cart-history{
     width:auto;
     margin-left: 20px;
-    background-color: rgba(174, 123, 199, 0.794);
+    background-color: rgba(184, 125, 240, 0.835);
+    border: 1px solid rgba(156, 118, 192, 0.801);
+    border-radius: 10px ;
     position:sticky;
     top: 0;
 }
 @media screen  and (max-width:414px) {
     .products{
         grid-template-columns: 12fr;
+    }
+}
+@media screen  and (max-width:1100px) {
+    .products{
+        grid-template-columns: repeat(3,1fr);
     }
 }
 

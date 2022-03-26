@@ -1,0 +1,21 @@
+.cart{
+    position: sticky;
+    top: 0;
+  
+}
+.cart-item
+.chose-button{
+    border: none;
+    color: white;
+    background-color:orange;
+    padding: 10px;
+    border-radius: 7px;
+}
+.chose-button:hover{
+    background-color: rgba(172, 103, 236, 0.815);
+}
+
+.cart-image img{
+    height: 100px;
+    width: 100px;
+}
