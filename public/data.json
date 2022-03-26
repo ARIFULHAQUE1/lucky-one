@@ -37,9 +37,9 @@
     },
     {
         "id": "7",
-        "name": "Little teddy-beras",
-        "price": 15,
-        "img": ""
+        "name": "Soldiers",
+        "price": 5,
+        "img": "https://img.freepik.com/free-photo/collection-traditional-toy-soldiers_93675-130167.jpg?size=626&ext=jpg&uid=R62594661&ga=GA1.2.1098518636.1642048898"
     },
     {
         "id": "8",
@@ -57,7 +57,7 @@
         "id": "10",
         "name": "Little Teddy-bear",
         "price": 70,
-        "img": "https://www.freepik.com/free-photo/adorable-little-poodle-with-teddy-bear-toy-blue-surface_15672380.htm#query=toy&position=6&from_view=search"
+        "img": "https://img.freepik.com/free-photo/adorable-little-poodle-with-teddy-bear-toy-blue-surface_181624-39163.jpg?size=626&ext=jpg&uid=R62594661&ga=GA1.1.1098518636.1642048898"
     },
     {
         "id": "11",
@@ -69,6 +69,6 @@
         "id": "12",
         "name": "Yellow Truck",
         "price": 20,
-        "img": "https://www.freepik.com/free-photo/yellow-toy-truck-yard_12751119.htm#query=toy&position=38&from_view=search"
+        "img": "https://img.freepik.com/free-photo/yellow-toy-truck-yard_181624-28412.jpg?size=626&ext=jpg&uid=R62594661&ga=GA1.2.1098518636.1642048898"
     }
 ]
