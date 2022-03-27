@@ -49,11 +49,11 @@ const Shop = () => {
             </div>
             <div className='QueAns'>
                 <span>How react Works?</span>
-                <li>React implements a virtual DOM that is basically a DOM tree representation in JavaScript. So when it needs to read or write to the DOM, it will use the virtual representation of it. Then the virtual DOM will try to find the most efficient way to update the browser’s DOM</li>
+                <li>React implements a virtual DOM that is basically a DOM tree representation in JavaScript. So when it needs to read or write to the DOM.it will use in virtual representation of it. Then the virtual DOM will try to find the most efficient way to update the browser’s DOM</li>
                 <span>How State Works?</span>
                 <li>State allow to  change data in an application. It's define  an object where we define key-value pairs specifying various data we want to track in  application.</li>
             </div>
-        </div>
+        </div >
 
     );
 };

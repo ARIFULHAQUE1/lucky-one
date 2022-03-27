@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Toys Shop app
 
-This project was bootstrapped with [Toys Shop app](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Toys Shop app](https://kids-toys-zone.netlify.app/).
 
 ## Available Scripts
 
