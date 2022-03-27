@@ -24,7 +24,7 @@ const Products = (props) => {
                     </div>
                 </button>
             </div>
-            <li>How react works?</li>
+
         </div>
 
 
