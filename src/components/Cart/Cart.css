@@ -1,6 +1,7 @@
 .cart-item{
     position: sticky;
     top: 0;
+
   
 }
 .cart{
@@ -28,7 +29,8 @@ display: block;
     color: white;
     background-color:coral;
     padding: 10px;
-    border-radius: 7px; 
+    border-radius: 7px;
+    margin-bottom: 10px; 
 }
 .chose-again:hover{
     background-color: rgba(172, 103, 236, 0.815);
