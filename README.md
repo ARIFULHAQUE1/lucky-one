@@ -5,7 +5,7 @@ This project was bootstrapped with [Toys Shop app](https://kids-toys-zone.netlif
 ## Available Scripts
 
 In the project directory, you can run:
-
+live site link [https://kids-toys-zone.netlify.app/]
 ### `npm start`
 
 Runs the app in the development mode.\
